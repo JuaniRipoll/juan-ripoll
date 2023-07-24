@@ -1,0 +1,86 @@
+Year,ALLS_1,ALLS_2,ALLS_3,ALLS_4,ALLS_5
+2022.0,Nikola Joki?,Giannis Antetokounmpo,Jayson Tatum,Luka Don?i?,Devin Booker
+2021.0,Nikola Joki?,Giannis Antetokounmpo,Kawhi Leonard,Stephen Curry,Luka Don?i?
+2020.0,Anthony Davis,Giannis Antetokounmpo,LeBron James,James Harden,Luka Don?i?
+2019.0,Nikola Joki?,Giannis Antetokounmpo,Paul George,James Harden,Stephen Curry
+2018.0,Anthony Davis,LeBron James,Kevin Durant,Damian Lillard,James Harden
+2017.0,Anthony Davis,LeBron James,Kawhi Leonard,James Harden,Russell Westbrook
+2016.0,DeAndre Jordan,LeBron James,Kawhi Leonard,Stephen Curry,Russell Westbrook
+2015.0,Marc Gasol,LeBron James,Anthony Davis,Stephen Curry,James Harden
+2014.0,Joakim Noah,Kevin Durant,LeBron James,James Harden,Chris Paul
+2013.0,Tim Duncan,Kevin Durant,LeBron James,Kobe Bryant,Chris Paul
+2012.0,Dwight Howard,Kevin Durant,LeBron James,Kobe Bryant,Chris Paul
+2011.0,Dwight Howard,Kevin Durant,LeBron James,Kobe Bryant,Derrick Rose
+2010.0,Dwight Howard,Kevin Durant,LeBron James,Kobe Bryant,Dwyane Wade
+2009.0,Dwight Howard,LeBron James,Dirk Nowitzki,Kobe Bryant,Dwyane Wade
+2008.0,Dwight Howard,Kevin Garnett,LeBron James,Kobe Bryant,Chris Paul
+2007.0,Amar'e Stoudemire,Tim Duncan,Dirk Nowitzki,Kobe Bryant,Steve Nash
+2006.0,Shaquille O'Neal,LeBron James,Dirk Nowitzki,Kobe Bryant,Steve Nash
+2005.0,Shaquille O'Neal,Tim Duncan,Dirk Nowitzki,Allen Iverson,Steve Nash
+2004.0,Shaquille O'Neal,Tim Duncan,Kevin Garnett,Kobe Bryant,Jason Kidd
+2003.0,Shaquille O'Neal,Tim Duncan,Kevin Garnett,Kobe Bryant,Tracy McGrady
+2002.0,Shaquille O'Neal,Tim Duncan,Tracy McGrady,Kobe Bryant,Jason Kidd
+2001.0,Shaquille O'Neal,Tim Duncan,Chris Webber,Allen Iverson,Jason Kidd
+2000.0,Shaquille O'Neal,Tim Duncan,Kevin Garnett,Jason Kidd,Gary Payton
+1999.0,Alonzo Mourning,Tim Duncan,Karl Malone,Allen Iverson,Jason Kidd
+1998.0,Shaquille O'Neal,Tim Duncan,Karl Malone,Michael Jordan,Gary Payton
+1997.0,Hakeem Olajuwon,Grant Hill,Karl Malone,Tim Hardaway,Michael Jordan
+1996.0,David Robinson,Karl Malone,Scottie Pippen,Anfernee Hardaway,Michael Jordan
+1995.0,David Robinson,Karl Malone,Scottie Pippen,Anfernee Hardaway,John Stockton
+1994.0,Hakeem Olajuwon,Karl Malone,Scottie Pippen,Latrell Sprewell,John Stockton
+1993.0,Hakeem Olajuwon,Charles Barkley,Karl Malone,Michael Jordan,Mark Price
+1992.0,David Robinson,Karl Malone,Chris Mullin,Clyde Drexler,Michael Jordan
+1991.0,David Robinson,Charles Barkley,Karl Malone,Magic Johnson,Michael Jordan
+1990.0,Patrick Ewing,Charles Barkley,Karl Malone,Magic Johnson,Michael Jordan
+1989.0,Hakeem Olajuwon,Charles Barkley,Karl Malone,Magic Johnson,Michael Jordan
+1988.0,Hakeem Olajuwon,Charles Barkley,Larry Bird,Magic Johnson,Michael Jordan
+1988.0,Hakeem Olajuwon,Larry Bird,Kevin McHale,Magic Johnson,Michael Jordan
+1987.0,Kareem Abdul-Jabbar,Larry Bird,Dominique Wilkins,Magic Johnson,Isiah Thomas
+1986.0,Moses Malone,Larry Bird,Bernard King,Magic Johnson,Isiah Thomas
+1986.0,Kareem Abdul-Jabbar,Larry Bird,Bernard King,Magic Johnson,Isiah Thomas
+1985.0,Moses Malone,Larry Bird,Julius Erving,Magic Johnson,Sidney Moncrief
+1984.0,Moses Malone,Larry Bird,Julius Erving,Georgeervin,Gus Williams
+1984.0,Kareem Abdul-Jabbar,Larry Bird,Julius Erving,Georgeervin,Dennis Johnson
+1983.0,Kareem Abdul-Jabbar,Larry Bird,Julius Erving,Georgeervin,Paul Westphal
+1982.0,Moses Malone,Elvin Hayes,Marques Johnson,Georgeervin,Paul Westphal
+1982.0,Bill Walton,Julius Erving,Truck Robinson,Georgeervin,David Thompson
+1981.0,Kareem Abdul-Jabbar,Elvin Hayes,David Thompson,Pete Maravich,Paul Westphal
+1980.0,Kareem Abdul-Jabbar,Rick Barry,George McGinnis,Tiny Archibald,Pete Maravich
+1980.0,Artis Gilmore,Julius Erving,Billy Knight,James Silas,Ralph Simpson
+1979.0,Bob McAdoo,Rick Barry,Elvin Hayes,Tiny Archibald,Walt Frazier
+1978.0,Artis Gilmore,Julius Erving,George McGinnis,Ron Boone,Mack Calvin
+1978.0,Kareem Abdul-Jabbar,Rick Barry,John Havlicek,Walt Frazier,Gailoodrich
+1977.0,Artis Gilmore,Julius Erving,George McGinnis,Mack Calvin,Jimmy Jones
+1976.0,Kareem Abdul-Jabbar,John Havlicek,Spencer Haywood,Tiny Archibald,Jerry West
+1976.0,Artis Gilmore,Billy Cunningham,Julius Erving,Warren Jabali,Jimmy Jones
+1975.0,Kareem Abdul-Jabbar,John Havlicek,Spencer Haywood,Walt Frazier,Jerry West
+1974.0,Artis Gilmore,Rick Barry,Dan Issel,Donnie Freeman,Bill Melchionni
+1974.0,Kareem Abdul-Jabbar,Billy Cunningham,John Havlicek,Dave Bing,Jerry West
+1973.0,Mel Daniels,Rick Barry,Roger Brown,Mack Calvin,Charlie Scott
+1972.0,Willis Reed,Billy Cunningham,Connie Hawkins,Walt Frazier,Jerry West
+1972.0,Mel Daniels,Rick Barry,Spencer Haywood,Larry Jones,Bob Verga
+1971.0,Wes Unseld,Elgin Baylor,Billy Cunningham,Earl Monroe,Oscar Robertson
+1970.0,Mel Daniels,Rick Barry,Connie Hawkins,Jimmy Jones,Larry Jones
+1970.0,Wilthamberlain,Elgin Baylor,Jerry Lucas,Dave Bing,Oscar Robertson
+1969.0,Mel Daniels,Connie Hawkins,Doug Moe,Larry Jones,Charles Williams
+1968.0,Wilthamberlain,Rick Barry,Elgin Baylor,Oscar Robertson,Jerry West
+1968.0,Wilthamberlain,Rick Barry,Jerry Lucas,Oscar Robertson,Jerry West
+1967.0,Bill Russell,Elgin Baylor,Jerry Lucas,Oscar Robertson,Jerry West
+1966.0,Wilthamberlain,Elgin Baylor,Bob Pettit,Oscar Robertson,Jerry West
+1966.0,Bill Russell,Elgin Baylor,Bob Pettit,Oscar Robertson,Jerry West
+1965.0,Wilthamberlain,Elgin Baylor,Bob Pettit,Oscar Robertson,Jerry West
+1964.0,Wilthamberlain,Elgin Baylor,Bob Pettit,Bob Cousy,Oscar Robertson
+1964.0,Wilthamberlain,Elgin Baylor,Bob Pettit,Bob Cousy,Gene Shue
+1963.0,Bill Russell,Elgin Baylor,Bob Pettit,Bob Cousy,Bill Sharman
+1962.0,Bob Pettit,Dolph Schayes,George Yardley,Bob Cousy,Bill Sharman
+1962.0,Bob Pettit,Paul Arizin,Dolph Schayes,Bob Cousy,Bill Sharman
+1961.0,Neil Johnston,Paul Arizin,Bob Pettit,Bob Cousy,Bill Sharman
+1960.0,Bobousy,Larryoust,Neil Johnston,Bob Pettit,Dolph Schayes
+1960.0,Bobousy,Harry Gallatin,Neil Johnston,George Mikan,Dolph Schayes
+1959.0,Bobousy,Neil Johnston,Ed Macauley,George Mikan,Dolph Schayes
+1958.0,Paul Arizin,Bob Cousy,Ed Macauley,George Mikan,Bob Davies
+1958.0,Ralph Beard,Bob Davies,Alex Groza,Ed Macauley,George Mikan
+1957.0,Bob Davies,Alex Groza,George Mikan,Jim Pollard,Max Zaslofsky
+1956.0,Bob Davies,Joeulks,George Mikan,Jim Pollard,Max Zaslofsky
+1956.0,Howie Dallmar,Bobeerick,Joeulks,Ed Sadowski,Max Zaslofsky
+1955.0,Bob Feerick,Joeulks,Bones McKinney,Stan Miasek,Max Zaslofsky
